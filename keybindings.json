@@ -1,0 +1,35 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+      "key": "ctrl+\\",
+      "command": "workbench.action.splitEditor",
+      "when": "!multipleEditorGroups"
+  },
+  {
+      "key": "ctrl+\\",
+      "when": "multipleEditorGroups",
+      "command": "workbench.action.joinTwoGroups"
+  },
+  {
+      "key": "cmd+i",
+      "when": "editorFocus",
+      "command": "workbench.action.terminal.focus"
+  },
+  {
+      "key": "cmd+i",
+      "when": "!editorFocus",
+      "command": "workbench.action.focusActiveEditorGroup"
+  },
+  {
+      "key": "cmd+shift+i",
+      "command": "workbench.action.focusSideBar"
+  },
+  {
+      "key": "cmd+m",
+      "command": "workbench.action.terminal.focus"
+  },
+  {
+      "key": "cmd+m",
+      "command": "workbench.action.toggleMaximizedPanel"
+  }
+]

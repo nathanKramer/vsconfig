@@ -1,0 +1,59 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.minimap.scale": 2,
+  "editor.renderIndentGuides": true,
+  "editor.renderWhitespace": "all",
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "explorer.openEditors.visible": 0,
+  "extensions.ignoreRecommendations": false,
+  "files.insertFinalNewline": true,
+  "gitlens.mode.active": "review",
+  "gitlens.views.compare.location": "gitlens",
+  "gitlens.views.fileHistory.location": "gitlens",
+  "gitlens.views.lineHistory.location": "gitlens",
+  "gitlens.views.repositories.location": "gitlens",
+  "gitlens.views.search.location": "gitlens",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "python.jediEnabled": false,
+  "python.linting.pylintEnabled": true,
+  "search.exclude": {
+      "_build": true,
+      "deps": true
+  },
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Noctis Obscuro",
+  "workbench.sideBar.location": "left",
+  "C_Cpp.intelliSenseEngine": "Default",
+  "[elixir]": {
+      "editor.tabSize": 2
+  },
+  "[elm]": {
+      "editor.formatOnSave": true,
+      "editor.tabSize": 4
+  },
+  "[haskell]": {
+      "editor.formatOnSave": true,
+      "editor.tabSize": 4
+  },
+  "[javascript]": {
+      "editor.formatOnSave": true
+  },
+  "[rust]": {
+      "editor.formatOnSave": true,
+      "editor.tabSize": 4
+  },
+  "[typescript]": {
+      "editor.formatOnSave": true
+  },
+  "[python]": {
+      "editor.tabSize": 4
+  },
+  "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
