@@ -1,0 +1,10 @@
+
+VSConfig
+--------
+
+Commands:
+- diff
+- install
+- force
+
+To learn more about a command, type `vsconfig help CMD_NAME`, for instance, `vsconfig help install`
