@@ -1,0 +1,16 @@
+
+vsconfig diff
+-------------
+
+Compare currently installed vscode extensions to those previously saved to a file.
+
+## Usage
+
+> `vsconfig diff`
+
+Diffs using the default file called `extensions`
+
+> `vsconfig diff` --file FILENAME`
+
+Compares using the provided file
+

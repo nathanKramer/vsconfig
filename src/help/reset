@@ -1,0 +1,17 @@
+
+vsconfig reset
+-------------
+
+Uninstalls extra extensions, and installs missing extensions, reseting your extensions to those listed in the specified extensions file.
+If no extensions file is given, uses the default extensions file called `extensions`
+
+## Usage
+
+> `vsconfig reset`
+
+Resets using the default file called `extensions`
+
+> `vsconfig reset` --file FILENAME`
+
+Resets using the provided file
+

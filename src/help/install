@@ -1,0 +1,16 @@
+
+vsconfig install
+-------------
+
+Installs missing extensions according to the specified extensions file.
+If no extensions file is given, uses the default extensions file called `extensions`
+
+## Usage
+
+> `vsconfig install`
+
+Installs using the default file called `extensions`
+
+> `vsconfig install` --file FILENAME`
+
+Installs using the provided file
